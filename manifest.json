@@ -1,0 +1,9 @@
+{
+    "domain": "seasnveimporter",
+    "name": "SEAS-NVE Importer",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["mysql-connector-python==2.2.9"],
+    "version": "1.0.0"
+  }
